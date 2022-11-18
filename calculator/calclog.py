@@ -24,3 +24,4 @@ def write_log(*args,
     if error:
         raise Exception(
             f'Ошибка записи в файл {file_new}. Записать не удалось.')
+            

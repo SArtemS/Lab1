@@ -130,3 +130,4 @@ def calculate(op1, op2, act):
         print('Такой операции нет')
 
     return r
+    
